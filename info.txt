@@ -1,0 +1,60 @@
+installation, workspace
+-----------------------
+go env
+> GOPATH
+
+ide
+---
+extension
+
+hello world
+------------
+
+https://godoc.org/
+> search "fmt"
+
+variables and types
+-------------------
+
+	// MAIN TYPES
+	// string
+	// bool
+	// int
+	// int  int8  int16  int32  int64
+	// uint uint8 uint16 uint32 uint64 uintptr
+	// byte - alias for uint8
+	// rune - alias for int32
+	// float32 float64
+	// complex64 complex128
+
+packages
+--------
+https://godoc.org/
+
+> fmt
+> lookup "math/rand"
+
+rand.Seed(time.Now().UnixNano())
+https://golang.org/pkg/math/rand/#Seed
+https://stackoverflow.com/questions/8288679/difficulty-with-go-rand-package
+
+functions
+---------
+
+arrays
+
+slices
+
+conditionals
+
+loops
+
+maps
+
+range
+
+pointers
+
+structs
+
+
